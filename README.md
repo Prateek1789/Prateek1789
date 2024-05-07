@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @Prateek1789
+- 👋🏻 Hi, I’m Prateek 
 - 👀 I’m interested in Web Development and creating cool looking websites 
 - 🤓 I’m currently learning Front-End Web Development
 - 📫 You can reach me at prateekpanta1789@gmail.com
